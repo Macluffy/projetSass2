@@ -1,0 +1,23 @@
+body{
+    font-family: 'Fredoka One', cursive;
+    header{
+        background-color: rgb(8, 8, 37);
+        display:flex ;
+        width: 100%;
+        div{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .cla1{
+            color: white;
+            font-size: 17px;
+            width: 50%;
+        }
+        .cla2{
+            color: grey;
+            font-size: 13px;
+            width: 50%;
+        }
+    }
+}
